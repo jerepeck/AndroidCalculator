@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeremypeck_MBP/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_ee8083859b71d7e8f31ba0fa98bcdcfb3bdeb36a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_40376e38410e1a20e7017ad2e12aea7fb264c506/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_0875360e5fbd91d43c8f6f1375639491219ad7f3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c414beb168964f393d6581fdc19dc284878d55c">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_63d30669132adf702a768e838cac01b70394f4b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_87f7499a388e273c72c5c3ea8731db38e30ec659/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d90b3495efb5e2bec14ec0cb00c461e468de10cb">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd065257ca0ab6e5fb290521a98489aa6ff1152b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_ecc5cef23fdaf9bac7d734185b2f3b3001cb24b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_33228665345a857f823abde98c25dd000b5603e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_980414bc9b9f66cbdc296a050ec19010f10e1e59/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/jeremypeck_MBP/Dropbox/Academy of Art/2016_Spring/617 - Mobile Tech/Android_Calculator/AndroidCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_56e849b9df3fa65a0dfd2aa5cd462c1990a22e9a/classes.dex" />
+    </item>
+
+</items>

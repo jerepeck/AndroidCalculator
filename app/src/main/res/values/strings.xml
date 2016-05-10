@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonOne" />
+    <string name="buttonTwo" />
+    <string name="buttonThree" />
+    <string name="buttonFour" />
+    <string name="buttonFive" />
+    <string name="buttonSix" />
+    <string name="buttonSeven" />
+    <string name="buttonEight" />
+    <string name="buttonNine" />
+    <string name="buttonZero" />
+    <string name="clear" />
+    <string name="equals" />
+    <string name="addition" />
+    <string name="subtraction" />
+    <string name="multiply" />
+    <string name="divide" />
+</resources>
